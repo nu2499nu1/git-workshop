@@ -1,2 +1,4 @@
 Leanning Git
 http://www.draconianoverlord.com/git-workshop.html
+lINK สอนการทำงาน Git
+http://www.artit-k.com/category/git/
